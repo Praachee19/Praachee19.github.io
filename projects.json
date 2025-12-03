@@ -1,0 +1,52 @@
+{
+    "projects": [
+        {
+            "title": "Customer Sentiment Analysis",
+            "description": "NLP, Text Processing, Sentiment Scoring and Insight Extraction from customer reviews.",
+            "image": "images/customer_sentiment.png",
+            "link": "https://github.com/Praachee19"
+        },
+        {
+            "title": "E-commerce Analysis with SQL",
+            "description": "Sales trends, revenue insights, customer purchase patterns and category analysis using SQL.",
+            "image": "images/ecommerce_sql.png",
+            "link": "https://github.com/Praachee19"
+        },
+        {
+            "title": "Hospital Data Analysis with SQL",
+            "description": "Patient flow, admissions, discharge patterns, resource utilization and healthcare KPIs.",
+            "image": "images/hospital_sql.png",
+            "link": "https://github.com/Praachee19"
+        },
+        {
+            "title": "Retail Sales Dashboard",
+            "description": "Interactive Tableau dashboard showing KPIs, store performance and product analytics.",
+            "image": "images/retail_sales.png",
+            "link": "https://public.tableau.com/app/profile/praachee.bhargava"
+        },
+        {
+            "title": "Customer Churn Prediction",
+            "description": "RFM, CLV, Random Forest, PCA plus Streamlit app for churn risk scoring.",
+            "image": "images/customer_churn.png",
+            "link": "https://bank-churn-rfm-clv.streamlit.app/"
+        },
+        {
+            "title": "Traffic Tracker",
+            "description": "Python automation for website traffic trends, user behavior and anomaly detection.",
+            "image": "images/traffic_tracker.png",
+            "link": "https://github.com/Praachee19"
+        },
+        {
+            "title": "Retail Engine",
+            "description": "Automated retail data ingestion, processing and sales intelligence engine.",
+            "image": "images/retail_engine.png",
+            "link": "https://github.com/Praachee19"
+        },
+        {
+            "title": "Insight Engine",
+            "description": "Python based insight generator producing KPI summaries for business stakeholders.",
+            "image": "images/insight_engine.png",
+            "link": "https://github.com/Praachee19"
+        }
+    ]
+}
